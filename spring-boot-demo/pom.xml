@@ -7,11 +7,40 @@
 	<groupId>org.fade.demo.springframework.boot</groupId>
 	<artifactId>spring-boot-demo</artifactId>
 	<version>1.0-SNAPSHOT</version>
+	<modules>
+		<module>boot-config</module>
+		<module>config-registry</module>
+	</modules>
 	<packaging>pom</packaging>
 
 	<properties>
 		<maven.compiler.source>17</maven.compiler.source>
 		<maven.compiler.target>17</maven.compiler.target>
+		<spring-boot.version>2.7.1</spring-boot.version>
+		<groovy.version>4.0.2</groovy.version>
 	</properties>
+
+	<dependencyManagement>
+		<dependencies>
+			<dependency>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-starter-web</artifactId>
+				<version>${spring-boot.version}</version>
+			</dependency>
+
+			<dependency>
+				<groupId>org.apache.groovy</groupId>
+				<artifactId>groovy-all</artifactId>
+				<version>${groovy.version}</version>
+				<type>pom</type>
+			</dependency>
+
+			<dependency>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-starter-aop</artifactId>
+				<version>${spring-boot.version}</version>
+			</dependency>
+		</dependencies>
+	</dependencyManagement>
 
 </project>
