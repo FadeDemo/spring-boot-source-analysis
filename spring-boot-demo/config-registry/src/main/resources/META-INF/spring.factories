@@ -1,1 +1,4 @@
-org.springframework.boot.env.EnvironmentPostProcessor=org.fade.demo.springframework.boot.registry.MyEnvironmentPostProcessor
+org.springframework.boot.env.EnvironmentPostProcessor=\
+  org.fade.demo.springframework.boot.registry.MyEnvironmentPostProcessor
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  org.fade.demo.springframework.boot.registry.MyConfig
