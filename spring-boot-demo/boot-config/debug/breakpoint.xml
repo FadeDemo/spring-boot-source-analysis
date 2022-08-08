@@ -3,303 +3,357 @@
 	<component name="XDebuggerManager">
 		<breakpoint-manager>
 			<breakpoints>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/SpringApplication.java</url>
 					<line>1294</line>
 					<option name="timeStamp" value="1" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/SpringApplication.java</url>
 					<line>1305</line>
 					<option name="timeStamp" value="2" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/SpringApplication.java</url>
 					<line>301</line>
 					<option name="timeStamp" value="3" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/SpringApplication.java</url>
 					<line>340</line>
 					<option name="timeStamp" value="4" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/SpringApplication.java</url>
 					<line>455</line>
 					<option name="timeStamp" value="5" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/SpringApplication.java</url>
 					<line>460</line>
 					<option name="timeStamp" value="6" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.21/spring-core-5.3.21-sources.jar!/org/springframework/core/env/AbstractEnvironment.java</url>
 					<line>137</line>
 					<option name="timeStamp" value="7" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.21/spring-core-5.3.21-sources.jar!/org/springframework/core/env/AbstractEnvironment.java</url>
 					<line>139</line>
 					<option name="timeStamp" value="8" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.21/spring-web-5.3.21-sources.jar!/org/springframework/web/context/support/StandardServletEnvironment.java</url>
 					<line>107</line>
 					<option name="timeStamp" value="9" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.21/spring-core-5.3.21-sources.jar!/org/springframework/core/env/StandardEnvironment.java</url>
 					<line>96</line>
 					<option name="timeStamp" value="10" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.21/spring-core-5.3.21-sources.jar!/org/springframework/core/env/AbstractEnvironment.java</url>
 					<line>123</line>
 					<option name="timeStamp" value="11" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/SpringApplication.java</url>
 					<line>342</line>
 					<option name="timeStamp" value="12" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/context/properties/source/ConfigurationPropertySources.java</url>
 					<line>86</line>
 					<option name="timeStamp" value="13" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/context/properties/source/ConfigurationPropertySources.java</url>
 					<line>94</line>
 					<option name="timeStamp" value="14" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/SpringApplication.java</url>
 					<line>343</line>
 					<option name="timeStamp" value="15" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/env/EnvironmentPostProcessorApplicationListener.java</url>
 					<line>97</line>
 					<option name="timeStamp" value="17" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/env/EnvironmentPostProcessorApplicationListener.java</url>
 					<line>101</line>
 					<option name="timeStamp" value="18" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/context/event/EventPublishingRunListener.java</url>
 					<line>84</line>
 					<option name="timeStamp" value="19" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/SpringApplicationRunListeners.java</url>
 					<line>64</line>
 					<option name="timeStamp" value="20" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/context/config/ConfigDataEnvironmentPostProcessor.java</url>
 					<line>93</line>
 					<option name="timeStamp" value="21" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/context/config/ConfigDataEnvironmentPostProcessor.java</url>
 					<line>101</line>
 					<option name="timeStamp" value="23" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/context/config/ConfigDataEnvironmentPostProcessor.java</url>
 					<line>113</line>
 					<option name="timeStamp" value="24" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/context/config/ConfigDataEnvironment.java</url>
 					<line>324</line>
 					<option name="timeStamp" value="25" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/context/config/ConfigDataEnvironment.java</url>
 					<line>327</line>
 					<option name="timeStamp" value="26" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/context/config/ConfigDataEnvironment.java</url>
 					<line>350</line>
 					<option name="timeStamp" value="27" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>file://$PROJECT_DIR$/spring-boot-demo/boot-config/src/main/java/org/fade/demo/springframework/boot/config/AppConfig.java</url>
-					<line>21</line>
+					<line>25</line>
 					<option name="timeStamp" value="28" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.21/spring-web-5.3.21-sources.jar!/org/springframework/web/context/support/StandardServletEnvironment.java</url>
 					<line>112</line>
 					<option name="timeStamp" value="29" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/context/config/ConfigDataEnvironment.java</url>
 					<line>223</line>
 					<option name="timeStamp" value="30" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/context/config/ConfigDataEnvironment.java</url>
 					<line>232</line>
 					<option name="timeStamp" value="31" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<condition expression="beanName.contains(&quot;appConfig&quot;)" language="JAVA" />
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
 					<line>593</line>
 					<option name="timeStamp" value="32" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<condition expression="beanName.contains(&quot;appConfig&quot;)" language="JAVA" />
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21-sources.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.java</url>
 					<line>245</line>
 					<option name="timeStamp" value="33" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<condition expression="beanName.contains(&quot;appConfig&quot;)" language="JAVA" />
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21-sources.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.java</url>
 					<line>453</line>
 					<option name="timeStamp" value="34" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21-sources.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.java</url>
 					<line>482</line>
 					<option name="timeStamp" value="35" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<condition expression="beanName.contains(&quot;onfig&quot;) &amp;&amp; beanName.contains(&quot;fade&quot;)" language="JAVA" />
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
 					<line>618</line>
 					<option name="timeStamp" value="36" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<condition expression="beanName.contains(&quot;appConfig&quot;)" language="JAVA" />
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
 					<line>1430</line>
 					<option name="timeStamp" value="37" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<condition expression="beanName.contains(&quot;appConfig&quot;)" language="JAVA" />
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21-sources.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.java</url>
 					<line>396</line>
 					<option name="timeStamp" value="38" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<condition expression="beanName.contains(&quot;appConfig&quot;)" language="JAVA" />
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21-sources.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.java</url>
 					<line>398</line>
 					<option name="timeStamp" value="39" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<condition expression="beanName.contains(&quot;onfig&quot;) &amp;&amp; beanName.contains(&quot;fade&quot;)" language="JAVA" />
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21-sources.jar!/org/springframework/beans/factory/annotation/InjectionMetadata.java</url>
 					<line>113</line>
 					<option name="timeStamp" value="40" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<condition expression="beanName.contains(&quot;onfig&quot;) &amp;&amp; beanName.contains(&quot;fade&quot;)" language="JAVA" />
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21-sources.jar!/org/springframework/beans/factory/annotation/InjectionMetadata.java</url>
 					<line>118</line>
 					<option name="timeStamp" value="41" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21-sources.jar!/org/springframework/beans/factory/annotation/InjectionMetadata.java</url>
 					<line>224</line>
 					<option name="timeStamp" value="42" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<condition expression="this.getClass().name.contains(&quot;fade&quot;)" language="JAVA" />
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21-sources.jar!/org/springframework/beans/factory/InjectionPoint.java</url>
 					<line>122</line>
 					<option name="timeStamp" value="43" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<condition expression="value.contains(&quot;test&quot;) || value.contains(&quot;default&quot;)" language="JAVA" />
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.21/spring-core-5.3.21-sources.jar!/org/springframework/util/PropertyPlaceholderHelper.java</url>
 					<line>131</line>
 					<option name="timeStamp" value="44" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<condition expression="key.contains(&quot;test&quot;) || key.contains(&quot;default&quot;)" language="JAVA" />
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.21/spring-core-5.3.21-sources.jar!/org/springframework/core/env/PropertySourcesPropertyResolver.java</url>
 					<line>78</line>
 					<option name="timeStamp" value="45" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.21/spring-core-5.3.21-sources.jar!/org/springframework/util/PropertyPlaceholderHelper.java</url>
 					<line>158</line>
 					<option name="timeStamp" value="46" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/SpringApplication.java</url>
 					<line>495</line>
 					<option name="timeStamp" value="47" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/SpringApplication.java</url>
 					<line>510</line>
 					<option name="timeStamp" value="48" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21-sources.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.java</url>
 					<line>638</line>
 					<option name="timeStamp" value="51" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.21/spring-core-5.3.21-sources.jar!/org/springframework/core/env/PropertySourcesPropertyResolver.java</url>
 					<line>73</line>
 					<option name="timeStamp" value="52" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.21/spring-core-5.3.21-sources.jar!/org/springframework/util/PropertyPlaceholderHelper.java</url>
 					<line>152</line>
 					<option name="timeStamp" value="53" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<condition expression="key.contains(&quot;test&quot;) || key.contains(&quot;default&quot;)" language="JAVA" />
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.21/spring-core-5.3.21-sources.jar!/org/springframework/core/env/PropertySourcesPropertyResolver.java</url>
 					<line>84</line>
 					<option name="timeStamp" value="54" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.21/spring-core-5.3.21-sources.jar!/org/springframework/core/env/SimpleCommandLineArgsParser.java</url>
 					<line>66</line>
 					<option name="timeStamp" value="55" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.21/spring-core-5.3.21-sources.jar!/org/springframework/util/PropertyPlaceholderHelper.java</url>
 					<line>153</line>
 					<option name="timeStamp" value="56" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.21/spring-core-5.3.21-sources.jar!/org/springframework/util/PropertyPlaceholderHelper.java</url>
 					<line>160</line>
 					<option name="timeStamp" value="57" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21-sources.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.java</url>
 					<line>642</line>
 					<option name="timeStamp" value="58" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/env/EnvironmentPostProcessorApplicationListener.java</url>
 					<line>99</line>
 					<option name="timeStamp" value="63" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/env/EnvironmentPostProcessorApplicationListener.java</url>
 					<line>120</line>
 					<option name="timeStamp" value="64" />
 				</line-breakpoint>
-				<line-breakpoint enabled="true" type="java-line">
+				<line-breakpoint type="java-line">
 					<url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1-sources.jar!/org/springframework/boot/env/EnvironmentPostProcessorsFactory.java</url>
 					<line>50</line>
 					<option name="timeStamp" value="65" />
+				</line-breakpoint>
+				<line-breakpoint type="java-line">
+					<condition expression="propertyName==&quot;config.registry&quot;" language="Groovy" />
+					<url>file://$PROJECT_DIR$/spring-boot-demo/config-registry/src/main/groovy/org/fade/demo/springframework/boot/registry/MyPropertySource.groovy</url>
+					<line>18</line>
+					<option name="timeStamp" value="66" />
+				</line-breakpoint>
+				<line-breakpoint type="java-line">
+					<url>file://$PROJECT_DIR$/spring-boot-demo/config-registry/src/main/groovy/org/fade/demo/springframework/boot/registry/MyEnvironmentPostProcessor.groovy</url>
+					<line>36</line>
+					<option name="timeStamp" value="67" />
+				</line-breakpoint>
+				<line-breakpoint type="java-line">
+					<condition expression="beanName.contains(&quot;onfig&quot;) &amp;&amp; beanName.contains(&quot;fade&quot;)" language="JAVA" />
+					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+					<line>619</line>
+					<option name="timeStamp" value="68" />
+				</line-breakpoint>
+				<line-breakpoint type="java-line">
+					<condition expression="beanName.contains(&quot;onfig&quot;) &amp;&amp; beanName.contains(&quot;fade&quot;)" language="JAVA" />
+					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+					<line>1807</line>
+					<option name="timeStamp" value="69" />
+				</line-breakpoint>
+				<line-breakpoint type="java-line">
+					<condition expression="beanName.contains(&quot;onfig&quot;) &amp;&amp; beanName.contains(&quot;fade&quot;)" language="JAVA" />
+					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+					<line>453</line>
+					<option name="timeStamp" value="70" />
+				</line-breakpoint>
+				<line-breakpoint type="java-line">
+					<url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java</url>
+					<line>973</line>
+					<option name="timeStamp" value="71" />
+				</line-breakpoint>
+				<line-breakpoint type="java-line">
+					<url>file://$PROJECT_DIR$/spring-boot-demo/config-registry/src/main/groovy/org/fade/demo/springframework/boot/registry/MyBeanPostProcessor.groovy</url>
+					<line>27</line>
+					<option name="timeStamp" value="72" />
+				</line-breakpoint>
+				<line-breakpoint type="java-line">
+					<url>jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32-sources.jar!/org/slf4j/LoggerFactory.java</url>
+					<line>387</line>
+					<option name="timeStamp" value="73" />
+				</line-breakpoint>
+				<line-breakpoint type="java-line">
+					<url>file://$PROJECT_DIR$/spring-boot-demo/config-registry/src/main/groovy/org/fade/demo/springframework/boot/registry/MyBeanPostProcessor.groovy</url>
+					<line>20</line>
+					<option name="timeStamp" value="75" />
+				</line-breakpoint>
+				<line-breakpoint enabled="true" type="java-line">
+					<url>file://$PROJECT_DIR$/spring-boot-demo/config-registry/src/main/groovy/org/fade/demo/springframework/boot/registry/MyBeanPostProcessor.groovy</url>
+					<line>40</line>
+					<option name="timeStamp" value="76" />
 				</line-breakpoint>
 			</breakpoints>
 		</breakpoint-manager>
